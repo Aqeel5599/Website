@@ -1,0 +1,1129 @@
+.logo img{
+    width: 50px;
+    height: 45px;
+    margin-top: 13px;
+    margin-left:25px;
+}
+.logo h4{
+    margin-left: 80px;
+    margin-top: -40px;
+}
+
+.logo_1 img{
+    width: 80px;
+   margin-left: 590px;
+   margin-top: -80px;
+}
+.logo{
+    padding-top: 5px;
+    justify-content: center;
+        
+}
+.navbar{
+    justify-content: center;
+    
+    background-color:gold;
+    width: 1360px;
+   
+}
+.landing_page img{
+ width: 80%;
+ height: 400px;
+ padding-top: 50px;
+ padding-left: 120px;
+
+
+}
+.button_1 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+}
+.button_1{
+    background-color: rgb(206, 201, 201);
+width: 110px;
+height: 40px;
+border: solid 2px rgb(206, 201, 201);
+border-radius: 25px;
+text-align: center;
+}
+.button_2 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+}
+.button_2{
+    background-color: rgb(206, 201, 201);
+    width: 110px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_3 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+      font-size: 15px;
+}
+.button_3{
+    background-color: rgb(206, 201, 201);
+    width: 130px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_4 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+      font-size: 15px;
+
+}
+.button_4{
+    background-color: rgb(206, 201, 201);
+    width: 130px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_5 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+}
+.button_5{
+    background-color: rgb(206, 201, 201);
+    width: 110px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_6 h4{
+    font-family: 'Times New Roman', Times, serif;
+      margin-top: -2px;
+      margin-top: 12px;
+}
+.button_6{
+    background-color: rgb(206, 201, 201);
+    width: 110px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_7 h4{
+    font-family: 'Times New Roman', Times, serif;      
+      margin-top: 10px;
+    font-size: 15px;
+ }
+.button_7{
+    background-color: rgb(206, 201, 201);
+    width: 180px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+
+    justify-content: space-around;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.button_8 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_8{
+    background-color: rgb(206, 201, 201);
+    width: 120px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_9 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_9{
+    background-color: rgb(206, 201, 201);
+    width: 180px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_10 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_10{
+    background-color: rgb(206, 201, 201);
+    width: 90px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_11 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_11{
+    background-color: rgb(206, 201, 201);
+    width: 90px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_12 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_12{
+    background-color: rgb(206, 201, 201);
+    width: 90px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.button_13 h4{
+    font-family: 'Times New Roman', Times, serif;      
+    margin-top: 10px;
+  font-size: 15px;
+}
+.button_13{
+    background-color: rgb(206, 201, 201);
+    width: 90px;
+    height: 40px;
+    border: solid 2px rgb(206, 201, 201);
+    border-radius: 25px;
+    text-align: center;
+}
+.main_2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.title h2{
+    padding-left: 150px;
+    padding-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.farseudu img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;
+}
+.farseudu h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.farseudu p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.farseudu h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.farseudu h4{
+background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.farseudu{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+    
+}
+.title_2 h2{
+    margin-left: 125px;
+    margin-top: 80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.cheezy img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;    
+}
+.cheezy h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.cheezy p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.cheezy h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.cheezy h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.cheezy{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+    
+}
+.oven img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;        
+}
+.oven h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.oven p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.oven h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.oven h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.oven{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+    
+}
+.flamings img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;       
+}
+.flamings h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.flamings p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.flamings h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.flamings h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.flamings{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+    
+}
+.calzone img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;       
+}
+.calzone h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.calzone p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.calzone h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.calzone h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.calzone{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+}
+.cards{
+    display: flex;
+margin-top: 50px;
+
+}
+.arabic img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;        
+}
+.arabic h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.arabic p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.arabic h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.arabic h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.arabic{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+}
+
+.behari img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;  
+}.behari h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.behari p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+}
+.behari h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+margin-bottom: -15px;    
+}
+.behari h4{
+    background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.behari{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+}
+.cards_2{
+    display: flex;
+    margin-top: 30px;
+}
+.title_3{
+    padding-top: 50px;
+    padding-left: 90px;
+}
+.chicken img{
+width: 250px;
+border: solid 5px rgb(224, 223, 223);
+border-radius: 15px;  
+}
+.chicken h3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 18px;
+margin-left: 11px;
+}
+.chicken p{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 13px;
+margin-top: -14px;
+margin-left: 9px;
+}
+.chicken h6{
+padding-left: 88px;
+color: red;
+font-size: 15px;
+margin-bottom: -15px;    
+}
+.chicken h4{
+background-color: red;
+width: 100px;
+height: 25px;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 5px;
+border: solid 2px red;
+border-radius: 20px;
+align-items: center;
+margin-left: 70px;
+color: white;
+}
+.chicken{
+border: solid 5px rgb(206, 201, 201);
+border-radius: 25px;
+width: 260px;
+background-color: rgb(206, 201, 201);
+margin-left: 50px;
+}
+.fajita img{
+    width: 250px;
+    border: solid 5px rgb(224, 223, 223);
+    border-radius: 15px;  
+    }
+    .fajita h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 11px;
+    }
+    .fajita p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: -14px;
+    margin-left: 9px;
+    }
+    .fajita h6{
+    padding-left: 88px;
+    color: red;
+    font-size: 15px;
+    margin-bottom: -15px;    
+    }
+    .fajita h4{
+    background-color: red;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 5px;
+    border: solid 2px red;
+    border-radius: 20px;
+    align-items: center;
+    margin-left: 70px;
+    color: white;
+    }
+    .fajita{
+    border: solid 5px rgb(206, 201, 201);
+    border-radius: 25px;
+    width: 260px;
+    background-color: rgb(206, 201, 201);
+    margin-left: 50px;
+    }
+    .lover img{
+        width: 250px;
+        border: solid 5px rgb(224, 223, 223);
+        border-radius: 15px;  
+        }
+        .lover h3{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 18px;
+        margin-left: 11px;
+        }
+        .lover p{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 13px;
+        margin-top: -14px;
+        margin-left: 9px;
+        }
+        .lover h6{
+        padding-left: 88px;
+        color: red;
+        font-size: 15px;
+        margin-bottom: -15px;    
+        }
+        .lover h4{
+        background-color: red;
+        width: 100px;
+        height: 25px;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 5px;
+        border: solid 2px red;
+        border-radius: 20px;
+        align-items: center;
+        margin-left: 70px;
+        color: white;
+        }
+        .lover{
+        border: solid 5px rgb(206, 201, 201);
+        border-radius: 25px;
+        width: 260px;
+        background-color: rgb(206, 201, 201);
+        margin-left: 50px;
+        }
+        .pizza img{
+            width: 250px;
+            border: solid 5px rgb(224, 223, 223);
+            border-radius: 15px;  
+            }
+            .pizza h3{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 18px;
+            margin-left: 11px;
+            }
+            .pizza p{
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 13px;
+            margin-top: -14px;
+            margin-left: 9px;
+            }
+            .pizza h6{
+            padding-left: 88px;
+            color: red;
+            font-size: 15px;
+            margin-bottom: -15px;    
+            }
+            .pizza h4{
+            background-color: red;
+            width: 100px;
+            height: 25px;
+            text-align: center;
+            padding-top: 18px;
+            padding-bottom: 5px;
+            border: solid 2px red;
+            border-radius: 20px;
+            align-items: center;
+            margin-left: 70px;
+            color: white;
+            }
+            .pizza{
+            border: solid 5px rgb(206, 201, 201);
+            border-radius: 25px;
+            width: 260px;
+            background-color: rgb(206, 201, 201);
+            margin-left: 50px;
+            }
+        .cards_3{
+            display: flex;
+            padding-top: 50px;
+    }
+    .tandoori img{
+        width: 250px;
+        border: solid 5px rgb(224, 223, 223);
+        border-radius: 15px;  
+        }
+        .tandoori h3{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 18px;
+        margin-left: 11px;
+        }
+        .tandoori p{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 13px;
+        margin-top: -14px;
+        margin-left: 9px;
+        }
+        .tandoori h6{
+        padding-left: 88px;
+        color: red;
+        font-size: 15px;
+        margin-bottom: -15px;    
+        }
+        .tandoori h4{
+        background-color: red;
+        width: 100px;
+        height: 25px;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 5px;
+        border: solid 2px red;
+        border-radius: 20px;
+        align-items: center;
+        margin-left: 70px;
+        color: white;
+        }
+        .tandoori{
+        border: solid 5px rgb(206, 201, 201);
+        border-radius: 25px;
+        width: 260px;
+        background-color: rgb(206, 201, 201);
+        margin-left: 50px;
+        }
+        .spicy img{
+            width: 250px;
+            border: solid 5px rgb(224, 223, 223);
+            border-radius: 15px;  
+            }
+            .spicy h3{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 18px;
+            margin-left: 11px;
+            }
+            .spicy p{
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 13px;
+            margin-top: -14px;
+            margin-left: 9px;
+            }
+            .spicy h6{
+            padding-left: 88px;
+            color: red;
+            font-size: 15px;
+            margin-bottom: -15px;    
+            }
+            .spicy h4{
+            background-color: red;
+            width: 100px;
+            height: 25px;
+            text-align: center;
+            padding-top: 18px;
+            padding-bottom: 5px;
+            border: solid 2px red;
+            border-radius: 20px;
+            align-items: center;
+            margin-left: 70px;
+            color: white;
+            }
+            .spicy{
+            border: solid 5px rgb(206, 201, 201);
+            border-radius: 25px;
+            width: 260px;
+            background-color: rgb(206, 201, 201);
+            margin-left: 50px;
+            }
+            .cards_4{
+                display: flex;
+                padding-top: 45px;
+                justify-content: center;
+
+            }
+            .title_4 h2{
+                margin-left: 80px;
+                padding-top: 50px;
+                
+            }
+            .chicken_lover img{
+                width: 250px;
+                border: solid 5px rgb(224, 223, 223);
+                border-radius: 15px;  
+            }
+            .chicken_lover h3{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 18px;
+                margin-left: 11px;
+                }
+                .chicken_lover p{
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-size: 13px;
+                margin-top: -14px;
+                margin-left: 9px;
+                }
+                .chicken_lover h6{
+                padding-left: 88px;
+                color: red;
+                font-size: 15px;
+                margin-bottom: -15px;    
+                }
+                .chicken_lover h4{
+                background-color: red;
+                width: 100px;
+                height: 25px;
+                text-align: center;
+                padding-top: 18px;
+                padding-bottom: 5px;
+                border: solid 2px red;
+                border-radius: 20px;
+                align-items: center;
+                margin-left: 70px;
+                color: white;
+                }
+                .chicken_lover{
+                border: solid 5px rgb(206, 201, 201);
+                border-radius: 25px;
+                width: 260px;
+                background-color: rgb(206, 201, 201);
+                margin-left: 50px;
+                }
+                .black img{
+                    width: 250px;
+                    border: solid 5px rgb(224, 223, 223);
+                    border-radius: 15px;       
+                
+                }
+                .black h3{
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    font-size: 18px;
+                    margin-left: 11px;
+                    }
+                    .black p{
+                    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                    font-size: 13px;
+                    margin-top: -14px;
+                    margin-left: 9px;
+                    }
+                    .black h6{
+                    padding-left: 88px;
+                    color: red;
+                    font-size: 15px;
+                    margin-bottom: -15px;    
+                    }
+                    .black h4{
+                    background-color: red;
+                    width: 100px;
+                    height: 25px;
+                    text-align: center;
+                    padding-top: 18px;
+                    padding-bottom: 5px;
+                    border: solid 2px red;
+                    border-radius: 20px;
+                    align-items: center;
+                    margin-left: 70px;
+                    color: white;
+                    }
+                    .black {
+                    border: solid 5px rgb(206, 201, 201);
+                    border-radius: 25px;
+                    width: 260px;
+                    background-color: rgb(206, 201, 201);
+                    margin-left: 50px;
+                    }
+                    .sau_sage img{
+                        width: 250px;
+                        border: solid 5px rgb(224, 223, 223);
+                        border-radius: 15px;       
+                    
+                    }
+                    .sau_sage h3{
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                        font-size: 18px;
+                        margin-left: 11px;
+                        }
+                        .sau_sage p{
+                        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                        font-size: 13px;
+                        margin-top: -14px;
+                        margin-left: 9px;
+                        }
+                        .sau_sage h6{
+                        padding-left: 88px;
+                        color: red;
+                        font-size: 15px;
+                        margin-bottom: -15px;    
+                        }
+                        .sau_sage h4{
+                        background-color: red;
+                        width: 100px;
+                        height: 25px;
+                        text-align: center;
+                        padding-top: 18px;
+                        padding-bottom: 5px;
+                        border: solid 2px red;
+                        border-radius: 20px;
+                        align-items: center;
+                        margin-left: 70px;
+                        color: white;
+                        }
+                        .sau_sage {
+                        border: solid 5px rgb(206, 201, 201);
+                        border-radius: 25px;
+                        width: 260px;
+                        background-color: rgb(206, 201, 201);
+                        margin-left: 50px;
+                        }
+                        
+                        .mushroom img{
+                            width: 250px;
+                            border: solid 5px rgb(224, 223, 223);
+                            border-radius: 15px;       
+                        
+                        }
+                        .mushroom h3{
+                            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                            font-size: 18px;
+                            margin-left: 11px;
+                            }
+                            .mushroom p{
+                            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                            font-size: 13px;
+                            margin-top: -14px;
+                            margin-left: 9px;
+                            }
+                            .mushroom h6{
+                            padding-left: 88px;
+                            color: red;
+                            font-size: 15px;
+                            margin-bottom: -15px;    
+                            }
+                            .mushroom h4{
+                            background-color: red;
+                            width: 100px;
+                            height: 25px;
+                            text-align: center;
+                            padding-top: 18px;
+                            padding-bottom: 5px;
+                            border: solid 2px red;
+                            border-radius: 20px;
+                            align-items: center;
+                            margin-left: 70px;
+                            color: white;
+                            }
+                            .mushroom {
+                            border: solid 5px rgb(206, 201, 201);
+                            border-radius: 25px;
+                            width: 260px;
+                            background-color: rgb(206, 201, 201);
+                            margin-left: 50px;
+                            }
+                            .cards_5{
+                                display: flex;
+                            }
+
+                            .roni img{
+                                width: 250px;
+                                border: solid 5px rgb(224, 223, 223);
+                                border-radius: 15px;       
+                            
+                            }
+                            .roni h3{
+                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                font-size: 18px;
+                                margin-left: 11px;
+                                }
+                                .roni p{
+                                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                font-size: 13px;
+                                margin-top: -14px;
+                                margin-left: 9px;
+                                }
+                                .roni h6{
+                                padding-left: 88px;
+                                color: red;
+                                font-size: 15px;
+                                margin-bottom: -15px;    
+                                }
+                                .roni h4{
+                                background-color: red;
+                                width: 100px;
+                                height: 25px;
+                                text-align: center;
+                                padding-top: 18px;
+                                padding-bottom: 5px;
+                                border: solid 2px red;
+                                border-radius: 20px;
+                                align-items: center;
+                                margin-left: 70px;
+                                color: white;
+                                }
+                                .roni {
+                                border: solid 5px rgb(206, 201, 201);
+                                border-radius: 25px;
+                                width: 260px;
+                                background-color: rgb(206, 201, 201);
+                                margin-left: 50px;
+                                }
+                                .chicken_c img{
+                                    width: 250px;
+                                    border: solid 5px rgb(224, 223, 223);
+                                    border-radius: 15px;       
+                                
+                                }
+                                .chicken_c h3{
+                                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                    font-size: 18px;
+                                    margin-left: 11px;
+                                    }
+                                    .chicken_c p{
+                                    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                    font-size: 13px;
+                                    margin-top: -14px;
+                                    margin-left: 9px;
+                                    }
+                                    .chicken_c h6{
+                                    padding-left: 88px;
+                                    color: red;
+                                    font-size: 15px;
+                                    margin-bottom: -15px;    
+                                    }
+                                    .chicken_c h4{
+                                    background-color: red;
+                                    width: 100px;
+                                    height: 25px;
+                                    text-align: center;
+                                    padding-top: 18px;
+                                    padding-bottom: 5px;
+                                    border: solid 2px red;
+                                    border-radius: 20px;
+                                    align-items: center;
+                                    margin-left: 70px;
+                                    color: white;
+                                    }
+                                    .chicken_c {
+                                    border: solid 5px rgb(206, 201, 201);
+                                    border-radius: 25px;
+                                    width: 260px;
+                                    background-color: rgb(206, 201, 201);
+                                    margin-left: 50px;
+                                    }
+                                    .euro img{
+                                        width: 250px;
+                                        border: solid 5px rgb(224, 223, 223);
+                                        border-radius: 15px;       
+                                    
+                                    }
+                                    .euro h3{
+                                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                        font-size: 18px;
+                                        margin-left: 11px;
+                                        }
+                                        .euro p{
+                                        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                        font-size: 13px;
+                                        margin-top: -14px;
+                                        margin-left: 9px;
+                                        }
+                                        .euro h6{
+                                        padding-left: 88px;
+                                        color: red;
+                                        font-size: 15px;
+                                        margin-bottom: -15px;    
+                                        }
+                                        .euro h4{
+                                        background-color: red;
+                                        width: 100px;
+                                        height: 25px;
+                                        text-align: center;
+                                        padding-top: 18px;
+                                        padding-bottom: 5px;
+                                        border: solid 2px red;
+                                        border-radius: 20px;
+                                        align-items: center;
+                                        margin-left: 70px;
+                                        color: white;
+                                        }
+                                        .euro {
+                                        border: solid 5px rgb(206, 201, 201);
+                                        border-radius: 25px;
+                                        width: 260px;
+                                        background-color: rgb(206, 201, 201);
+                                        margin-left: 50px;
+                                        }
+                                        .cards_6{
+                                            display: flex;
+                                            margin-top: 30px;
+                                        }
+            
+                                
+                                
+                
+               
+                
+                   
+               
